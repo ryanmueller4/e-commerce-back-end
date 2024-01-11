@@ -6,7 +6,7 @@ This is the code for the back end of an e-commerce website. It utilizes JavaScri
 
 ## Installation
 
-N/A
+Use Node.js to install dependencies from the package.json file with the command "npm install". Dependacies include dotenv, Express, mysql2, and Sequelize.
 
 ## Usage
 
